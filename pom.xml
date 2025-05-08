@@ -5,12 +5,12 @@
 
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.maven.demo</groupId>
-  <artifactId>mavensimple</artifactId>
+  <groupId>MavenTestProject1010</groupId>
+  <artifactId>MavenProject1010</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>mavensimple</name>
+  <name>maventext101</name>
   <url>http://maven.apache.org</url>
 
   <properties>
